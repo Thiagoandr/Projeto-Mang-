@@ -2,8 +2,7 @@
     margin: 50px;
     width: 200px;
     overflow: hidden;
-    position: relative; /* Adicionado */
-}
+    position: relative; 
 
 .slides {
     width: 400%;
@@ -21,7 +20,7 @@
 
 .slide img {
     width: 100%;
-    height: 100%; /* Alterado */
+    height: 100%; 
     object-fit: cover;
 }
 
@@ -76,4 +75,5 @@
 .manual-btn:hover {
     background-color: #fff;
     color: #130d0d;
+}
 }
