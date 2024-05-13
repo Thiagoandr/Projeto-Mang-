@@ -14,11 +14,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    font-size: 24px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-}
+
 
 .logo {
     font-size: 20px;
@@ -26,6 +22,7 @@ a:hover {
     letter-spacing: 6px;
     color: rgb(229, 236, 236);
     margin-right: 60%;
+    margin-left: 1%;
 }
 
 nav {
@@ -38,6 +35,8 @@ nav {
 h2 {
     margin: 40px;
     color: rgb(149, 155, 155);
+    
+   
 }
 .nav-list {
     list-style: none;
