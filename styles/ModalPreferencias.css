@@ -1,0 +1,25 @@
+.modal-header {
+    border-bottom: 1px solid #444; 
+}
+
+.btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
+
+.btn-custom {
+    background-color: #444; 
+    border-color: #444;
+    color: #fff; 
+}
+
+.btn-custom:hover {
+    background-color: #e6b800; 
+    border-color: #e6b800; 
+    color: #000; 
+}

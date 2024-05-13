@@ -53,6 +53,8 @@ h2 {
     height: 2px;
     background: #fff;
     margin: 8px;
+}   .modal-content {
+    background-color: #1c1c1c; /* Cor de fundo da modal */
+    color: #ccc; /* Cor do texto da modal */
 }
-
 
