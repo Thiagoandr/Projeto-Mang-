@@ -62,11 +62,12 @@ h2 {
     color: #ccc;
 }
 
-#carouselExampleIndicators {
-    max-width: 1300px;
+#carouselExampleCaptions {
+    max-width: 900px; 
+    margin: 0 auto; 
 }
 
 .carousel-inner img {
-    max-width: 100%;
+    max-width: 190%; 
     height: auto;
 }
