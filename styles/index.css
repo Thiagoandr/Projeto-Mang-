@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #130d0d;
+    background-color: #000;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -58,7 +58,7 @@ h2 {
     color: #ccc; /* Cor do texto da modal */
 }
 #carouselExampleIndicators {
-    max-width: 800px; /* Defina a largura máxima desejada para o carrossel */
+    max-width: 1300px; /* Defina a largura máxima desejada para o carrossel */
     margin: auto;
 }
 .carousel-inner img {
