@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #130d0d;
+    background-color: #000;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -32,12 +32,14 @@ nav {
     height: 8vh;
     background-color: #232323;
 }
+
 h2 {
     margin: 40px;
     color: rgb(149, 155, 155);
-    
-   
+
+
 }
+
 .nav-list {
     list-style: none;
     display: flex;
@@ -53,15 +55,18 @@ h2 {
     height: 2px;
     background: #fff;
     margin: 8px;
-}   .modal-content {
-    background-color: #1c1c1c; /* Cor de fundo da modal */
-    color: #ccc; /* Cor do texto da modal */
 }
+
+.modal-content {
+    background-color: #1c1c1c;
+    color: #ccc;
+}
+
 #carouselExampleIndicators {
-    max-width: 800px; /* Defina a largura máxima desejada para o carrossel */
-    margin: auto;
+    max-width: 1300px;
 }
+
 .carousel-inner img {
-    max-width: 100%; /* Define a largura máxima das imagens como 100% do contêiner */
-    height: auto; /* Mantém a proporção da imagem */
+    max-width: 100%;
+    height: auto;
 }
