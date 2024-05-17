@@ -71,3 +71,20 @@ h2 {
     max-width: 190%; 
     height: auto;
 }
+h3{
+    color: #fff;
+    font-size: 20px
+}
+.animes {
+    max-width: 100%; 
+    display: flex;
+    justify-content: left;
+    margin-left:  80px; 
+    margin-top: 50px;
+}
+.animes img {
+    width: 10%; 
+    height: auto; 
+    margin-top: 90px;
+    
+}
